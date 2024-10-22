@@ -7,10 +7,15 @@ Sou um cientista de dados e desenvolvedor Python, apaixonado por machine learnin
 💬 Pergunte-me sobre: Machine Learning, Python, Data Science, APIs, ou qualquer tecnologia relacionada!
 
 🚀 Sobre Mim
+
 🎓 Formação: Ciência de Dados na UNESA - Universidade Estácio de Sá
+
 💼 Experiência: Busyness Analst na Group Software
+
 🌐 Interesses: Machine Learning, Deep Learning, Backend, Análise de Dados
+
 📚 Estudando atualmente: Redes neurais artificiais / Desenvolvimento de aplicações WEB com Python
+
 🌍 Falo: Português (C2), Inglês (B2)
 
 🛠️ Habilidades Técnicas
