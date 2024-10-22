@@ -1,7 +1,6 @@
-👋 Olá, Me chamo Nikolas Sucadorni!
-<p align="center"> <img src="https://cdn.leonardo.ai/users/8e3e1568-ce54-4acb-8dac-4c079ed1f224/generations/48c6dba0-53f0-42c6-aa12-727494897f05/Leonardo_Phoenix_Create_highdefinition_art_for_a_github_profil_0.jpg" alt="banner" /> </p>
+Olá, Eu sou <span style="font-size: 2em;">Nikolas Sucadorni</span>!!
 
-Sou um cientista de dados e desenvolvedor Python, apaixonado por machine learning e sempre buscando novas formas de resolver problemas complexos através da ciência de dados.
+Sou um cientista de dados e desenvolvedor Python, apaixonado por machine learnin e sempre buscando novas formas de resolver problemas complexos através da ciência de dados.
 
 🌱 Atualmente estou focado em: Deep Learning, Modelos Preditivos, Otimização de Algoritmos e Análise de dados.
 💬 Pergunte-me sobre: Machine Learning, Python, Data Science, APIs, ou qualquer tecnologia relacionada!
