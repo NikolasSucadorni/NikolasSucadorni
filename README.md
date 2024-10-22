@@ -1,4 +1,4 @@
-👋 Olá, Eu sou <span style="font-size: 25px;">Nikolas Sucadorni</span>!!
+👋 Olá, Eu sou Nikolas Sucadorni!
 
 Sou um cientista de dados e desenvolvedor Python, apaixonado por machine learnin e sempre buscando novas formas de resolver problemas complexos através da ciência de dados.
 
