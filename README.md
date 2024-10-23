@@ -1,9 +1,8 @@
 👋 Olá, Eu sou Nikolas Sucadorni!
 
-Sou um cientista de dados e desenvolvedor Python, apaixonado por machine learnin e sempre buscando novas formas de resolver problemas complexos através da ciência de dados.
+Sou um cientista de dados e desenvolvedor Python, apaixonado por machine learning e sempre buscando novas formas de resolver problemas complexos através da ciência de dados.
 
 🌱 Atualmente estou focado em: Deep Learning, Modelos Preditivos, Otimização de Algoritmos e Análise de dados.
-💬 Pergunte-me sobre: Machine Learning, Python, Data Science, APIs, ou qualquer tecnologia relacionada!
 
 🚀 Sobre Mim
 
@@ -18,7 +17,13 @@ Sou um cientista de dados e desenvolvedor Python, apaixonado por machine learnin
 🌍 Falo: Português (C2), Inglês (B2)
 
 🛠️ Habilidades Técnicas
-💻 Linguagens & Ferramentas: Python; SQL; PowerBI; DAX; VBA
+💻 Linguagens & Ferramentas: 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 🧠 Machine Learning & AI
 Bibliotecas: Scikit-learn, TensorFlow, PyTorch
