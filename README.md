@@ -5,7 +5,7 @@ Sou um cientista de dados e desenvolvedor Python, apaixonado por machine learnin
 
 🌱 Atualmente estou focado em: Deep Learning, Modelos Preditivos, Otimização de Algoritmos e Análise de dados.
 
-🚀 Sobre Mim
+## 🚀 Sobre Mim
 
 🎓 Formação: Ciência de Dados na UNESA - Universidade Estácio de Sá
 
@@ -17,7 +17,8 @@ Sou um cientista de dados e desenvolvedor Python, apaixonado por machine learnin
 
 🌍 Falo: Português (C2), Inglês (B2)
 
-🛠️ Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
+
 💻 Linguagens & Ferramentas: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,7 +36,7 @@ Ferramentas de Visualização: Matplotlib, Seaborn, Plotly
 SQL: MySQL, PostgreSQL
 NoSQL: MongoDB
 
-📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
 <table>
   <tr>
