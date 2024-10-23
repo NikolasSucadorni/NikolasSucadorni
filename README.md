@@ -9,7 +9,7 @@ Sou um cientista de dados e desenvolvedor Python, apaixonado por machine learnin
 
 🎓 Formação: Ciência de Dados na UNESA - Universidade Estácio de Sá
 
-💼 Experiência: Busyness Analst na Group Software
+💼 Experiência: Busyness Analyst na Group Software
 
 🌐 Interesses: Machine Learning, Deep Learning, Backend, Análise de Dados
 
