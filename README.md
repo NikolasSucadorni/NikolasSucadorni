@@ -33,9 +33,26 @@ Ferramentas de Visualização: Matplotlib, Seaborn, Plotly
 🛢️ Banco de Dados
 SQL: MySQL, PostgreSQL
 NoSQL: MongoDB
+
 📈 Estatísticas do GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NikolasSucadorni&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/NikolasSucadorni">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasSucadorni&layout=compact" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/NikolasSucadorni">
+        <img src="https://github-readme-stats.vercel.app/api?username=NikolasSucadorni&show_icons=true&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 🌐 Vamos nos conectar!
-<p align="center"> <a href="https://www.linkedin.com/in/nikolas-sucadorni-2b976a192/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/sucadorni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikolas-sucadorni-2b976a192/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/sucadorni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
