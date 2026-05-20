@@ -10,7 +10,7 @@ Sou **Data Scientist** e **AI Developer**, apaixonado por resolver problemas com
 - 🎓 Formação: **Ciência de Dados** (Estácio) · **Administração de Empresas** (Estácio)
 - 🔬 Pós-graduação em andamento: **Computação Quântica** — PUC Minas (2026–2027)
 - 🧠 Especialidades: Python para backend & automações · LangChain · LangGraph · Deep Learning · ETL · Power BI
-- 🌍 Idiomas: Português (C2) · Inglês (C1)
+- 🌍 Idiomas: Português (C2) · Inglês (B2)
 
 ---
 
@@ -19,11 +19,17 @@ Sou **Data Scientist** e **AI Developer**, apaixonado por resolver problemas com
 ### 💻 Linguagens & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cython](https://img.shields.io/badge/Cython-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI & LLM Orchestration
 
@@ -49,20 +55,14 @@ Sou **Data Scientist** e **AI Developer**, apaixonado por resolver problemas com
 
 ## 📈 Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/NikolasSucadorni">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasSucadorni&layout=compact&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/NikolasSucadorni">
-        <img src="https://github-readme-stats.vercel.app/api?username=NikolasSucadorni&show_icons=true&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikolasSucadorni&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasSucadorni&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolasSucadorni&theme=radical&hide_border=true"/>
+</div>
 
 ---
 
