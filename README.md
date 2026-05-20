@@ -10,7 +10,7 @@ Sou **Data Scientist** e **AI Developer**, apaixonado por resolver problemas com
 - 🎓 Formação: **Ciência de Dados** (Estácio) · **Administração de Empresas** (Estácio)
 - 🔬 Pós-graduação em andamento: **Computação Quântica** — PUC Minas (2026–2027)
 - 🧠 Especialidades: Python para backend & automações · LangChain · LangGraph · Deep Learning · ETL · Power BI
-- 🌍 Idiomas: Português (C2) · Inglês (B2)
+- 🌍 Idiomas: Português (C2) · Inglês (C1)
 
 ---
 
